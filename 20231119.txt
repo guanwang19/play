@@ -1,0 +1,25 @@
+fundamentals:
+Python
+VS Code
+GitHub
+PostgreSQL
+Unit Test
+
+python libraries:
+pandas, numpy
+matplotlib, seaborn
+
+
+
+
+
+
+ pip install faiss-cpu
+
+
+
+
+
+https://www.linkedin.com/in/andrewyng/
+
+https://pynative.com/python-write-list-to-file/#h-pickle-module-to-write-serialize-list-into-a-file
